@@ -1,8 +1,8 @@
 import requests
 from twilio.rest import Client
 
-account_sid = "ACf3be8e59b84f09db3f3ecedc27c276b8"
-auth_token = "8786a9a35f37c1ad63812a20b74da388"
+account_sid = 
+auth_token = 
 
 
 parameters = {
